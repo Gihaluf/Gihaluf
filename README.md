@@ -1,9 +1,8 @@
 ## Sveiki
 
-- 🔭 Es pašlaik strādāju pie Java un Unity projektiem
+- 🔭 Es strādāju pie HTML un JavaScript projektiem
 - 🌱 Es mācos objektorientētu programmēšanu un spēļu izstrādi
-- 💬 Jautā man par Java, C# vai Unity
-
+- 🚜 Pašlaik es iztrādāju savu projektu, ko sauc par "LaukuĶirbi", kas tiks pilnveidota HTML
 ---
 
 ## 🛠️ Valodas un rīki / Languages & Tools
