@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sveiki
 
 - 🔭 Es pašlaik strādāju pie Java un Unity projektiem
 - 🌱 Es mācos objektorientētu programmēšanu un spēļu izstrādi
