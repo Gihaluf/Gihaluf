@@ -24,13 +24,3 @@
 
 ## 📁 Mani projekti / My Projects
 
-| Projekts | Valoda | Apraksts |
-|---|---|---|
-| [oop_figuras](https://github.com/Gihaluf/oop_figuras) | Java | Objektorientēta programma, kas ļauj veidot figūru objektus |
-| [Loterija](https://github.com/Gihaluf/Loterija) | Java | Mana mazā loterijas programma 🤑 |
-| [Pic-rija](https://github.com/Gihaluf/Pic-rija) | Java | Maza programma par picēriju (skolas darbs) |
-| [GitKaulins](https://github.com/Gihaluf/GitKaulins) | Java | Metamā kauliņa programma |
-| [Pokemoni](https://github.com/Gihaluf/Pokemoni) | Java | Komandas projekts par pokemoniem |
-| [Bitenieks_UnityUI](https://github.com/Gihaluf/Bitenieks_UnityUI) | C# / Unity | Gērbšanās programma ar Drag & Drop un mini spēli |
-| [Unity_kkas](https://github.com/Gihaluf/Unity_kkas) | C# / Unity | Unity spēles projekts (darba procesā) |
-| [Ierice](https://github.com/Gihaluf/Ierice) | Java | Maza programma par ierīcēm |
