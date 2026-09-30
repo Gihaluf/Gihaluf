@@ -17,7 +17,7 @@
 
 ## 📁 Mani projekti / My Projects
 
-### Mācību ekskursija Liepājā"
+### "Mācību ekskursija Liepājā"
 Interaktīva tīmekļa spēle, kurā spēlētājs dodas virtuālā ekskursijā pa Liepāju, apmeklējot dažādas pilsētas vietas un izpildot izglītojošas aktivitātes.
 <br>Programma tika izveidota komandas biedra GitHub profilā.
 <br>https://github.com/Sginats/Ekskursija-Liepaja
