@@ -5,7 +5,7 @@
 - Pašlaik es iztrādāju savu projektu, ko sauc par "LaukuĶirbi", kas tiks pilnveidota HTML
 ---
 
-## 🛠️ Valodas un rīki / Languages & Tools
+## Valodas un rīki / Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -17,5 +17,11 @@
 
 ## 📁 Mani projekti / My Projects
 
+- "Mācību ekskursija Liepājā"
+Interaktīva tīmekļa spēle, kurā spēlētājs dodas virtuālā ekskursijā pa Liepāju, apmeklējot dažādas pilsētas vietas un izpildot izglītojošas aktivitātes.
+Programma tika izveidota komandas biedra GitHub profilā.
+https://github.com/Sginats/Ekskursija-Liepaja
 
+---
+- "LaukuĶirbis"
 
